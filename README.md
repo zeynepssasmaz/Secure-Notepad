@@ -37,6 +37,3 @@ This Java application provides a secure notepad using the DES and AES encryption
 3. **Run the application:**
    ```bash
    java SecureNotepad
-
-
-   
